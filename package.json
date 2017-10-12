@@ -1,0 +1,19 @@
+{
+  "name": "deepnoop",
+  "version": "1.0.0",
+  "description": "Noop object with arbitrary number of nested attributes that are also noop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julien-c/deepnoop.git"
+  },
+  "author": "Julien Chaumond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julien-c/deepnoop/issues"
+  },
+  "homepage": "https://github.com/julien-c/deepnoop#readme"
+}
